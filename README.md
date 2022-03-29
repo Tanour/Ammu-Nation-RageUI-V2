@@ -6,7 +6,7 @@ Script Ammu Nation :
 - Facile à Config
 - PPA Obligatoire pour armes à feu
 - Arme en items
-- 0.01 en resmon
+- 0.00 en resmon
 
 Si vous avez des suggestions de scripts que je pourrais faire, des retours ou autres → Tanour#5954
 
