@@ -21,7 +21,7 @@ local subMenuppa = RageUI.CreateSubMenu(MainMenu, "Ammu Nation", "interaction")
 local subMenuppa2 = RageUI.CreateSubMenu(MainMenu, "Ammu Nation", "interaction")
 MainMenu.Display.Header = true 
 MainMenu.Closed = function()
-  open = true
+  open = false
 end
 
 --- FUNCTION OPENMENU ---
